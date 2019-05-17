@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "test": "jest --colors 2>&1"
+    "test": "jest --colors"
   }
 }
