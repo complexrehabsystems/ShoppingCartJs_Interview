@@ -5,12 +5,12 @@ The cart's implementation is mapped out in shopping_cart.js.
 
 ---
 To complete the exercise, please 
-# download a zip copy of this repository
-# implement the shopping cart functions in shopping_cart.js
-# verify that all tests pass
-# zip up your solution
-## IMPORTANT: please rename the extension from zip to anything else before submitting
-# submit your solution to dpackard@kimobility.com
+* download a zip copy of this repository
+* implement the shopping cart functions in shopping_cart.js
+* verify that all tests pass
+* zip up your solution
+  * IMPORTANT: please rename the extension from zip to anything else before submitting
+* submit your solution to dpackard@kimobility.com
 
 ---
 
