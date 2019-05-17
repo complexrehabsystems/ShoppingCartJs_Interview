@@ -72,7 +72,7 @@ test('After adding two productA and removing one productA, the cart should conta
   const cart = ShoppingCart();
   cart.addItem(productA, 2);
   cart.removeItem(productA, 1);
-  expect(cart.isEmpty()).toBe(true);
+  expect(cart.quantity(productA)).toBe(1);
 });
 
 test('After adding two productA, removing one productA, adding one productB, and adding one productC, the cart total should equal productA.price + productB.price + productC.price', () => {
