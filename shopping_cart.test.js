@@ -68,9 +68,18 @@ test('After trying to add -1 productA, cart total should be empty', () => {
   expect(cart.isEmpty()).toBe(true);
 });
 
-test('After adding two productA and removing one productA, the cart sohuld contain one productA', () => {
+test('After adding two productA and removing one productA, the cart should contain one productA', () => {
   const cart = ShoppingCart();
   cart.addItem(productA, 2);
   cart.removeItem(productA, 1);
   expect(cart.isEmpty()).toBe(true);
+});
+
+test('After adding two productA, removing one productA, adding one productB, and adding one productC, the cart total should equal productA.price + productB.price + productC.price', () => {
+  const cart = ShoppingCart();
+  cart.addItem(productA, 2);
+  cart.removeItem(productA, 1);
+  cart.addItem(productB, 1);
+  cart.addItem(productC, 1);
+  expect(cart.total()).toBe(productA.price + productB.price + productC.price);
 });
