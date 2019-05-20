@@ -1,7 +1,8 @@
 In this small interview project, you will implement a shopping cart!
 
-The cart's behavior is specified in shopping_cart.test.js.
-The cart's implementation is mapped out in shopping_cart.js.
+The cart's _behavior_ is specified in shopping_cart.test.js.
+
+The cart's _implementation_ is stubbed out in shopping_cart.js.
 
 ---
 To complete the exercise, please 
