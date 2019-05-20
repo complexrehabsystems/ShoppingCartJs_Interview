@@ -38,3 +38,8 @@ isEmpty: function(){
   return cart_items.length === 0;
 },
 ```
+
+---
+
+A successful implementation should result in the following test results:
+![image](https://user-images.githubusercontent.com/1051245/58049724-28c36580-7b13-11e9-9734-1c0a635bf986.png)
