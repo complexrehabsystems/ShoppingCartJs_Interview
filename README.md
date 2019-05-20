@@ -10,7 +10,7 @@ To complete the exercise, please
 * implement the shopping cart functions in shopping_cart.js
 * verify that all tests pass
 * zip up your solution
-  * IMPORTANT: please rename the extension from zip to anything else before submitting
+  * IMPORTANT: please rename the extension from zip to anything else before submitting (Ki Mobility's mail servers will reject files with the .zip extension)
 * submit your solution to dpackard@kimobility.com CC cbudd@kimobility.com
 
 ---
