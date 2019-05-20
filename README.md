@@ -10,7 +10,7 @@ To complete the exercise, please
 * verify that all tests pass
 * zip up your solution
   * IMPORTANT: please rename the extension from zip to anything else before submitting
-* submit your solution to dpackard@kimobility.com
+* submit your solution to dpackard@kimobility.com CC cbudd@kimobility.com
 
 ---
 
